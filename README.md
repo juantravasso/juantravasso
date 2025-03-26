@@ -14,7 +14,6 @@
   - ReactJS, React Native, NodeJS e Next.js  
   - HTML5, CSS3, JavaScript
 
-
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>  
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>  
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>  
@@ -22,9 +21,6 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>  
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>  
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>  
-
-
-
     
 - **APIs:**  
   - Consumo e integração de APIs RESTful.  
@@ -34,10 +30,9 @@
   - Git & GitHub  
   - VS Code
 
- 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
-  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>  
 
 - **Idiomas:**  
   - Inglês intermediário (Teacher Villani, 2021 - Cursando)
@@ -46,9 +41,9 @@
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- **[Projeto Pokémon API](#)**: Consumo da API do Pokémon com busca por nome e detalhes completos.  
-- **[Aplicativo de Tarefas](#)**: Gerenciador de tarefas com React Native e armazenamento local.  
-- **[Dashboard Financeiro](#)**: Controle financeiro pessoal usando ReactJS e NodeJS.
+- **[Projeto Pokémon API](https://github.com/juantravasso/pokemon)**: Projeto React com interface dinâmica e consumo da API do Pokémon com busca por nome e detalhes completos  
+- **[Rede Social](https://github.com/juantravasso/nubbleMobile)**: Projeto que utiliza React Native e TypeScript, com uma arquitetura escalável e tipada para maior segurança e clareza no código
+- **[Dashboard Financeiro](https://github.com/juantravasso/03-dt-money)**: Controle financeiro pessoal usando ReactJS e NodeJS.
 
 ## 📈 Formação
 
