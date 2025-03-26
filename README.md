@@ -13,7 +13,8 @@
   - TypeScript  
   - ReactJS, React Native, NodeJS e Next.js  
   - HTML5, CSS3, JavaScript
-    
+
+
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>  
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>  
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>  
@@ -30,11 +31,13 @@
   - Manipulação de dados dinâmicos em aplicações web e móveis.
 
 - **Ferramentas:**
+  - Git & GitHub  
+  - VS Code
+
+ 
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
   
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  - Git & GitHub  
-  - VS Code  
 
 - **Idiomas:**  
   - Inglês intermediário (Teacher Villani, 2021 - Cursando)
