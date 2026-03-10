@@ -14,6 +14,7 @@
   - ReactJS, React Native
   - NodeJS, Next.js
   - HTML5, CSS3, JavaScript
+  - Tailwind
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>  
@@ -41,8 +42,11 @@
 
 Aqui estão alguns dos meus projetos mais recentes:
 
+- **[Aplicação web](https://www.ewertonjuniorrfx.com/)**: Projeto que utiliza React, TypeScript e Tailwind, om foco em criar uma interface moderna, responsiva e escalável.
+  
 - **[Projeto Pokémon API](https://github.com/juantravasso/pokemon)**: Projeto React com interface dinâmica e consumo da API do Pokémon com busca por nome e detalhes completos  
 - **[Rede Social](https://github.com/juantravasso/nubbleMobile)**: Projeto que utiliza React Native e TypeScript, com uma arquitetura escalável e tipada para maior segurança e clareza no código
+- 
 - **[Dashboard Financeiro](https://github.com/juantravasso/03-dt-money)**: Controle financeiro pessoal usando ReactJS e NodeJS.
 
 ## 📈 Formação
